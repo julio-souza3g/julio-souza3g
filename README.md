@@ -1,16 +1,13 @@
-### Hi there 👋
+# Olá, Eu sou Júlio Souza 👋
 
-<!--
-**jfdsouza988/jfdsouza988** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente, trabalho como Desenvolvedor FullStack na Doutor Multas
+- 🌱 Estou estudando algumas principais tecnologias como: ReactJS, NodeJS, React Native, JavaScript
+- 👯 Sou estudante de Engenharia de Computação na UFPel
+- 💬 Pergunte-me sobre `[Git, React, React Native, NodeJS, Javascript ]` 
+- 😄 Pronomes: Ele/Dele
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![jfdsouza988's github stats](https://github-readme-stats.vercel.app/api?username=jfdsouza988&show_icons=true&theme=radical)
+
+[![GitHub Followers](https://img.shields.io/github/followers/jfdsouza988?style=flat&labelColor=0D0D0D&logo=Github&Color=white)](https://github.com/jfdsouza988)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-060606?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](www.linkedin.com/in/júlio-souza-079351213)
