@@ -1,6 +1,6 @@
 # Olá, Eu sou Júlio Souza 👋
 
-- 🔭 Atualmente, trabalho como estagiário em Desenvolvimento Web na Doutor Multas
+- 🔭 Atualmente, trabalho como Desenvolvedor Backend Jr
 - 🌱 Estou estudando algumas principais tecnologias como: ReactJS, NodeJS, React Native, JavaScript
 - 👯 Sou estudante de Engenharia de Computação na UFPel
 - 💬 Pergunte-me sobre `[Git, React, React Native, NodeJS, Javascript ]` 
