@@ -1,9 +1,9 @@
 # Olá, Eu sou Júlio Souza 👋
 
-- 🔭 Atualmente, trabalho como Desenvolvedor Backend Jr
-- 🌱 Estou estudando algumas principais tecnologias como: ReactJS, NodeJS, React Native, JavaScript
+- 🔭 Atualmente, trabalho como Desenvolvedor FullStack Jr
+- 🌱 Estou estudando algumas principais tecnologias como: VueJs, ReactJS, NodeJS, JavaScript e TypeScript
 - 👯 Sou estudante de Engenharia de Computação na UFPel
-- 💬 Pergunte-me sobre `[Git, React, React Native, NodeJS, Javascript ]` 
+- 💬 Pergunte-me sobre `[Git, Vue, React, NodeJS, Javascript, TypeScript ]` 
 - 😄 Pronomes: Ele/Dele
 
 <br>
@@ -20,7 +20,7 @@
 
 
 
-![jfdsouza988's github stats](https://github-readme-stats.vercel.app/api?username=jfdsouza988&show_icons=true&theme=radical)
+![julio-souza3g's github stats](https://github-readme-stats.vercel.app/api?username=julio-souza3g&show_icons=true&theme=radical)
 
 [![GitHub Followers](https://img.shields.io/github/followers/julio-souza3g?style=flat&labelColor=0D0D0D&logo=Github&Color=white)](https://github.com/julio-souza3g)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-060606?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://www.linkedin.com/in/j%C3%BAlio-souza-079351213/)
