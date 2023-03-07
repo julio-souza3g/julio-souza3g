@@ -1,6 +1,6 @@
 # Olá, Eu sou Júlio Souza 👋
 
-- 🔭 Atualmente, trabalho como Desenvolvedor FullStack Jr
+- 🔭 Atualmente, trabalho como Desenvolvedor FullStack
 - 🌱 Estou estudando algumas principais tecnologias como: VueJs, ReactJS, NodeJS, JavaScript e TypeScript
 - 👯 Sou estudante de Engenharia de Computação na UFPel
 - 💬 Pergunte-me sobre `[Git, Vue, React, NodeJS, Javascript, TypeScript ]` 
